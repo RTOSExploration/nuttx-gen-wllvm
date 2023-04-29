@@ -10,3 +10,8 @@
 
 2 directories, 4 files
 ```
+
+## NuttX
+APACHE NUTTX: https://github.com/apache/nuttx
+
+APACHE NUTTX Application Folder: https://github.com/apache/nuttx-apps
