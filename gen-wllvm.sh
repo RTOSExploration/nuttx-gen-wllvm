@@ -22,7 +22,7 @@ export PATH="$RTOSExploration/bin-wrapper:$PATH"
 export WLLVM_OUTPUT_LEVEL=INFO \
        LLVM_COMPILER=hybrid \
        LLVM_COMPILER_PATH=/usr/lib/llvm-14/bin \
-       GCC_PATH="$(realpath "$RTOSExploration/gcc-arm-none-eabi-9-2019-q4-major/bin/")" \
+       GCC_PATH="$(realpath "$RTOSExploration/toolchain/gcc-arm-none-eabi-9-2019-q4-major/bin/")" \
        GCC_CROSS_COMPILE_PREFIX=arm-none-eabi-
 
 TOPDIR=nuttx
